@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wfwZh8h7MXGDXbB0czKDzwkLOYna6SoLDhDxoIj8RNA1FG6ul428z0tKgRlRiYHTfDdRGaep8D8cZ0DOCmscdg==",
+  "success": true,
+  "projectFilePath": "/home/tr4shl0rd/IMDBlookup/IMDBLookup/IMDBLookup.csproj",
+  "expectedPackageFiles": [
+    "/home/tr4shl0rd/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512",
+    "/home/tr4shl0rd/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
